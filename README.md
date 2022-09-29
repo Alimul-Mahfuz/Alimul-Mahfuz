@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alimul-Mahfuz
-- 👀 I’m interested in PHH, Laravel, Java
+- 👀 I’m interested in PHP, Laravel, Java
 - 🌱 I’m currently learning Laravel and Java
 - 💞️ I’m looking to collaborate on web development
 - 📫 Email me at alimulmahfuztushar@gmail.com
