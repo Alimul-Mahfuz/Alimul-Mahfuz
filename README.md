@@ -2,7 +2,7 @@
 
 * 👨‍💻 I'm a **Software Developer** focused on .NET and web development
 * 🚀 I'm interested in **C#, ASP.NET Core, Angular, and Distributed Systems**
-* 🌱 I'm currently improving my skills in **.NET, System Design & Software Architecture**
+* 🌱 I'm currently work as full-time software engineer in **.NET, Angular, WPF, .NET Core**
 * 💡 I enjoy building **scalable, maintainable, and reliable applications**
 * 🤝 I'm interested in collaborating on **.NET and web development projects**
 * 📫 Email: **[alimulmahfuztushar@gmail.com](mailto:alimulmahfuztushar@gmail.com)**
