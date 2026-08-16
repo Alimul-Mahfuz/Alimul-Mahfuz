@@ -1,15 +1,11 @@
-Ah, yes — you mean a **compact GitHub profile README like the screenshot**, with short bullets, tech-stack badges, and GitHub stats, rather than a long CV-style README.
-
-Based on your current skills, I’d make yours look like this:
-
-# 👋 Hi, I'm Alimul Mahfuz
+# 👋 Hi, I'm Alimul Mahfuz Tushar
 
 * 👨‍💻 I'm a **Software Developer** focused on .NET and web development
 * 🚀 I'm interested in **C#, ASP.NET Core, Angular, and Distributed Systems**
 * 🌱 I'm currently improving my skills in **.NET, System Design & Software Architecture**
 * 💡 I enjoy building **scalable, maintainable, and reliable applications**
 * 🤝 I'm interested in collaborating on **.NET and web development projects**
-* 📫 Email: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Email: **[alimulmahfuztushar@gmail.com](mailto:alimulmahfuztushar@gmail.com)**
 
 ---
 
@@ -49,15 +45,15 @@ Based on your current skills, I’d make yours look like this:
 A distributed notification system designed to reliably process and deliver notifications across multiple channels.
 
 **Built with:**
-`C#` `ASP.NET Core` `Distributed Systems` `Messaging`
+`C#` `ASP.NET Core` `Angular`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alimul-Mahfuz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alimul-Mahfuz&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -65,16 +61,14 @@ A distributed notification system designed to reliably process and deliver notif
 ## 🔥 GitHub Streak
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Alimul-Mahfuz&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Alimul-Mahfuz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/alimul-mahfuz-tushar/)
 
-**Important:** replace `YOUR_USERNAME` with your actual GitHub username and `your-email@example.com` with your email.
 
-I also intentionally removed **PHP, Laravel, Python, C++, Photoshop, Figma, Pandas, Scikit-learn, etc.** from the example because your recent work/questions show a much stronger **C#/.NET + Angular** direction. This will make the profile look more focused to a company/recruiter.
