@@ -38,17 +38,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🔔 Distributed Notification System
-
-A distributed notification system designed to reliably process and deliver notifications across multiple channels.
-
-**Built with:**
-`C#` `ASP.NET Core` `Angular`
-
----
-
 ## 📊 GitHub Stats
 
 <p>
